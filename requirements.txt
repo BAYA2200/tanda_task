@@ -53,3 +53,4 @@ urllib3==2.2.3
 virtualenv==20.27.1
 xattr==1.1.0
 zipp==3.21.0
+psycopg2-binary==2.9.7
